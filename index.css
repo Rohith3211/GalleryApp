@@ -1,0 +1,27 @@
+.card {
+  padding: 40px;
+}
+
+.image {
+  height: 330px;
+}
+.img-list {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+  margin-right: 0px;
+}
+.img {
+  height: 40px;
+  width: 50px;
+  opacity: 0.5;
+  margin: 1px;
+  border-radius: 5px;
+}
+.img2 {
+  opacity: 1;
+}
+.btn {
+  border-width: 0px;
+  background-color: transparent;
+}
